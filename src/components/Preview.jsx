@@ -9,7 +9,7 @@ import { FaFileDownload } from "react-icons/fa";
 import { FaHistory } from "react-icons/fa";
 import Edit from './Edit';
 import html2canvas from 'html2canvas';
-import jsPDF from 'jsPDF';
+import jsPDF from 'jspdf';
 import { addDownloadHistoryAPI } from '../services/allAPI';
 
 
